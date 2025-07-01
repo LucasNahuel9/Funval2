@@ -1,0 +1,20 @@
+.card{
+    background-color: #033268;
+    color: white;
+}
+.Nombre{
+    font-size: 25px;
+    color: white;
+}
+.Apellido{
+    font-size: 25px;
+    color: white;
+}
+.Edad{
+    font-size: 15px;
+    color: white;
+}
+.Email{
+    font-size: 20px;
+    color: white;
+}
